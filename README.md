@@ -27,3 +27,5 @@ open ./your-project-title/report.tex
 And start filling out all the TODOs 
 
 Enjoy!
+
+[Secret link](http://www.cs.ust.hk/~golin/latexsheet.pdf)
