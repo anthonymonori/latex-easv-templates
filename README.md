@@ -4,10 +4,10 @@
 These are some basic templates to use with the LaTeX, a word processor and document markup language commonly used in Academia, that will save you some time with the initial setup. LaTeX is good for many reasons, but more specifically you can source control the whole project writing phase.
 
 Read more here (which is irionically made by LaTeX):
-```http://www.howtotex.com/download/FiveMinuteGuideToLaTeX.pdf ```
+``` http://www.howtotex.com/download/FiveMinuteGuideToLaTeX.pdf ```
 
 ## What templates are available
-- Report template
+- Report
 
 ## How to install LaTeX?
 ### Windows
@@ -19,9 +19,11 @@ Read more here (which is irionically made by LaTeX):
 P.S. After installing MacTeX, I prefer [TexStudio](http://www.texstudio.org/) as a client.
 
 ## How to start using these templates?
-``` git clone https://github.com/anthonymonori/latex-easv-templates
+``` 
+git clone https://github.com/anthonymonori/latex-easv-templates
 cp -r ./report ./your-project-title
-open ./your-project-title/report.tex ```
+open ./your-project-title/report.tex 
+```
 And start filling out all the TODOs 
 
 Enjoy!
