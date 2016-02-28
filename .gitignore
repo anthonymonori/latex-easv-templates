@@ -1,7 +1,7 @@
-P2.thm
-P2.log
-P2.aux
-P2.out
-P2.pdf
-P2.toc
-P2.synctex.gz
+*.thm
+*.log
+*.aux
+*.out
+*.pdf
+*.toc
+*.synctex.gz
