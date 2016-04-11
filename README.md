@@ -8,6 +8,8 @@ Read more here (which is irionically made by LaTeX):
 
 ## What templates are available
 - Report
+- Compulsory
+- Synopsis
 
 ## How to install LaTeX?
 ### Windows
