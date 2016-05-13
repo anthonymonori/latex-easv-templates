@@ -26,7 +26,8 @@ P.S. After installing MacTeX, I prefer [TexStudio](http://www.texstudio.org/) as
 ```
 git clone https://github.com/anthonymonori/latex-easv-templates
 git checkout <insert-type-here>
-cp -r ./* ./your-project-title
+mkdir ~/your-project-title
+cp -r ./* ~/your-project-title
 open ./your-project-title/main.tex
 ```
 And start filling out all the TODOs
