@@ -3,21 +3,22 @@
 ## What is this?
 These are some basic templates to use with the LaTeX, a word processor and document markup language commonly used in Academia, that will save you some time with the initial setup. LaTeX is good for many reasons, but more specifically you can source control the whole project writing phase.
 
-Read more here (which is irionically made by LaTeX):
+Read more here (which is ironically made by LaTeX):
 ``` http://www.howtotex.com/download/FiveMinuteGuideToLaTeX.pdf ```
 
-## What templates are available
-- Report
-- Compulsory
-- Synopsis
+## What `types` are available
+- report
+- compulsory
+- synopsis
+- presentation
 
-_Note: Each of them is in their own respective branch_
+_**Note: Each of them is in their own respective branch**_
 
 ## How to install LaTeX?
-### Windows
+#### Windows
 ``` http://www.howtotex.com/howto/installing-latex-on-windows/ ```
 
-### OS X
+#### OS X
 ``` http://www.howtotex.com/howto/installing-latex-on-mac-os-x/ ```
 
 P.S. After installing MacTeX, I prefer [TexStudio](http://www.texstudio.org/) as a client.
